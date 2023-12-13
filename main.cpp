@@ -1,10 +1,5 @@
-//Author: Ashley Muka
-//Assignment Title: Quadratic Formula
-//Assignment Description: Calculate roots of a quadratic equation
-//Due Date:02/03/2023
-//Date Created:02/03/2023
-//Date Last Modified:02/03/2023
 
+//Description: Calculate roots of a quadratic equation
 
 #include <iostream>
 #include <iomanip>
